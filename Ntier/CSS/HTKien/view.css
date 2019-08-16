@@ -1,0 +1,625 @@
+﻿body {
+    font-family: 'Roboto',Tahoma,sans-serif !important;
+    margin: 0;
+    display: flex;
+    background-color: #eaeaea;
+}
+.div-trai{
+    position: absolute;
+
+    width:  140px;
+    height: 100vh; /*thuộc tính cho thẻ cao toàn bộ màn hình*/
+    margin: 0;
+
+
+}
+.div-phai {
+    
+    width: 1540px;
+    height: 100vh; /*thuộc tính cho thẻ cao toàn bộ màn hình*/
+    margin-left: 140px;
+
+
+   
+
+}
+.div-trai-tren {
+    background-color: #006189;
+    width: 100%;
+    height: 52px;
+    cursor: pointer;
+}
+.div-trai-giua {
+    background-color: #026b97;
+    width: 100%;
+    height: 543px;
+    overflow: auto; /*thuộc tính để cuộn nếu tràn dữ liệu*/ 
+
+}
+.div-trai-duoi {
+    position: relative;
+    background-color: #026b97;
+    width: 100%;
+    height: 39px;
+    border-top: 1px solid #0d4157;
+    display: flex;
+    cursor: pointer;
+}
+    .div-trai-duoi:hover {
+        background-color: #0b5370;
+    }
+    .div-phai-tren {
+        width: 100%;
+        height: 52px;
+        background-color: white;
+        display: flex;
+    }
+.div-phai-duoi {
+    width: 98.3%;
+    height: 563px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 1px solid #d0c1c1;
+
+    
+
+}
+.div-trai-tren > img {
+    margin-top: 14px;
+    margin-left: 10px;
+}
+.div-trai-duoi-icon {
+    background-image: url('/Contents/icon/slibarmenu.png');
+    width: 22px;
+    height: 22px;
+    margin-left: 6px;
+    margin-top: 9px;
+    /*background-color: red;*/
+    overflow: hidden;
+    background-position: 0px -354px;
+}
+
+
+.div-trai-duoi-text {
+    /*background-color: deeppink;*/
+    width: 95px;
+    height: 22px;
+    margin-top: 9px;
+    margin-left: 5px;
+    font-size: 13px;
+    padding-left: 5px;
+    line-height: 22px;
+    color: white;
+}
+#icon1{
+    background-position: -2px 0px;
+
+}
+#icon2 {
+    background-position: 0px -279px;
+}
+#icon3 {
+    background: url('/Contents/icon/ic_sogiaohang.png') no-repeat center;
+    background-position: 2px 2px;
+}
+#icon4 {
+    background-position: 0px -40px;
+}
+#icon5 {
+    background-position: 0px 430px;
+}
+#icon6 {
+    background-position: -1px 389px;
+}
+#icon7 {
+    background-position: -3px 350px;
+}
+#icon8 {
+    background-position: -1px 310px;
+}
+#icon9 {
+    background-position: 4px 1px;
+    background: url(/Contents/icon/sms_menu.png) no-repeat center;
+    background-repeat: no-repeat;
+}
+#icon10 {
+    background-position: 0px 271px;
+}
+#icon12 {
+    background-position: 0px 190px;
+}
+#icon11 {
+    background-image: url(/Contents/icon/hoadondien.png);
+    background-position: 0px 0px;
+}
+#icon13 {
+    background-position: 0px 121px;
+}
+#icon14 {
+    background-position: 0px 85px;
+}
+#icon15 {
+    background: url('/Contents/icon/ic_ocm_logo.png') no-repeat center;
+    background-position: 4px 3px;
+
+}
+#icon16 {
+    background: url('/Contents/icon/icon_5shop_white_24_1.png') no-repeat center;
+    background-position: 0px 0px;
+}
+#icon17 {
+    background: url('/Contents/icon/ic_api_20.png')  no-repeat center;
+    background-position: 0px 0px;
+
+}
+._1cai{
+    height: 45px;
+
+}
+    ._1cai:hover, .active {
+        background-color: #0b5370;
+    }
+.div-phai-tren-1{
+    height: 100%;
+    width: 770px;
+    line-height: 52px;
+    padding-left: 20px;
+    font-weight: 600;
+    font-size : 18px;
+
+
+
+    
+
+    
+
+}
+.div-phai-tren-2 {
+    height: 100%;
+    width: 165px;
+    cursor: pointer;
+}
+.div-phai-tren-3 {
+    height: 100%;
+    width: 113px;
+    cursor: pointer;
+}
+.div-phai-tren-4 {
+    height: 100%;
+    width: 47px;
+    background-color: #07f;
+    cursor: pointer;
+}
+.div-phai-tren-5 {
+    height: 100%;
+    width: 50px;
+    cursor: pointer;
+}
+.div-phai-tren-6 {
+    height: 100%;
+    width: 50px;
+    border-left: 1px solid gainsboro;
+    cursor: pointer;
+}
+.div-phai-tren-6 > img{
+    margin-top: 16px;
+    margin-left: 16px;
+
+}
+    .div-phai-tren-6:hover {
+       opacity: 0.7;
+
+    }
+    .div-phai-tren-5 > img {
+        margin-top: 16px;
+        margin-left: 16px;
+    }
+        .div-phai-tren-5:hover{
+            opacity: 0.7;
+
+        }
+        .div-phai-tren-4 > img {
+            margin-top: -1px;
+            margin-left: 2px;
+        }
+.menu-ngang {
+    display: flex;
+
+    height: 35px;
+    width: 100%;
+    background-color: #006189;
+
+}
+.menu-ngang-1cai {
+    background-color: #006189;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    cursor: pointer;
+    border: none;
+    outline: 0;
+    align-items: center;
+}
+    .menu-ngang-1cai:hover{
+        background-color: #378eaa;
+    }
+    .menu-ngang-1cai-icon {
+        width: 15px;
+        height: 15px;
+        background-image: url('/Contents/icon/common-icon.png');
+        margin-top: 3px;
+    }
+
+.menu-ngang-1cai-text{
+    margin-left: 10px;
+    margin-top: 0px;
+    font-size: 13px;
+    color: white;
+
+
+
+}
+#iconn1{
+    background-position: -4px -130px;
+
+}
+#iconn2 {
+
+    background-position: -54px -53px;
+}
+#iconn3 {
+    background-position: -78px -203px;
+}
+#iconn4 {
+    background-position: -101px -206px;
+}
+#iconn5 {
+    background-position: -127px -203px;
+}
+#iconn6 {
+    background-position: -178px -130px;
+}
+
+#iconn7 {
+    background-position: -127px -130px;
+}
+.table {
+    width: 98.5%;
+    height: 476px;
+    background-color: #eaeaea;
+}
+.trang {
+    position: relative;
+    width: 100%;
+    height: 52px;
+    background-color: white;
+    margin-bottom: 0px;
+
+}
+.cot1 {
+    width: 41px;
+    height: 100%;
+    border-right: 1px solid #c1c0c0;
+}
+.cot2 {
+    width: 120px;
+    height: 100%;
+    border-right: 1px solid #c1c0c0;
+}
+.cot3 {
+    width: 312px;
+    height: 100%;
+    border-right: 1px solid #c1c0c0;
+}
+.cot4 {
+    width: 130px;
+    height: 100%;
+    border-right: 1px solid #c1c0c0;
+}
+.cot5 {
+    width: 130px;
+    height: 100%;
+    border-right: 1px solid #c1c0c0;
+}
+.cot6 {
+    width: 150px;
+    height: 100%;
+    border-right: 1px solid #c1c0c0;
+}
+.cot7 {
+    width: 181px;
+    height: 100%;
+    border-right: 1px solid #c1c0c0;
+}
+.cot8 {
+    width: 115px;
+    height: 100%;
+    border-right: 1px solid #c1c0c0;
+}
+.tieu-de {
+    width: 100%;
+    height: 60px;
+    border-bottom: 1px solid #b4b2b2;
+}
+.du-lieu {
+    width: 100%;
+    height: 413px;
+    border-bottom: 1px solid #b4b2b2;
+    overflow: auto;
+    background-color: white;
+
+}
+.tieu-de-tren {
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    line-height: 30px;
+    
+}
+.tieu-de-duoi {
+    width: 100%;
+    height: 50%;
+    margin-left: 2px;
+
+}
+.font-size{
+    font-size: 13px;
+
+}
+.font-weight{
+    font-weight: 600;
+
+}
+.tieu-de-duoi-trai{
+    width: 30px;
+    height: 30px;
+    border: 1px solid #b4b2b2;
+    background-color: white;
+
+    text-align: center;
+    line-height: 30px;
+
+
+
+
+}
+.cur{
+    cursor: pointer;
+
+}
+
+.div-table {
+    width: 100%;
+    height: 475px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse; /*thuộc tính để căn chỉnh  viền bảng*/ 
+}
+th,td {
+    border: 1px solid gainsboro;
+    /*text-align: center;*/
+
+}
+
+td{
+    font-size: 13px;
+
+}
+.click-row{
+    background-color: #2871f6;
+    
+
+}
+
+tr:nth-child(even) {
+    background-color: #f6f6f6;
+}
+
+
+
+table{
+    background-color: white;
+
+}
+li {
+    display: inline;
+    border: 1px solid #000;
+    margin: 0;
+
+}
+ul {
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+
+    
+
+}
+#xoa {
+    background-color: #006189;
+}
+    #xoa:hover {
+        background-color: #378eaa;
+    }
+
+a{
+   text-decoration: none ;
+
+}
+.menu-ngang-1cai:disabled{
+    opacity: 0.5;
+    cursor: default;
+
+}
+.menu-trang:disabled{
+    opacity: 0.3;
+    cursor: default;
+
+}
+.cot-phantren {
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    line-height: 30px;
+    font-size: 13px;
+   
+}
+.cot-phanduoi {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    margin-left: 2px;
+
+
+
+}
+.input1 {
+    width: 30px;
+    text-align: center;
+    cursor: pointer;
+    background-color: white;
+    border: 1px solid #c1c0c0;
+    outline: 0;
+}
+.input2{
+    width: 82px;
+
+
+}
+#ten-kh {
+    width: 273px;
+}
+
+#dien-thoai{
+    width: 91px;
+
+}
+.ngay-sinh {
+    width: 91px;
+    cursor: pointer;
+    background: url('/Contents/icon/icons8-date-to-24.png') no-repeat right;
+    background-size: 18px;
+    background-color: white;
+    outline: none;
+    border: 1px solid #c1c0c0;
+    
+}
+#nhom-kh {
+    width: 111px;
+}
+#ghi-chu {
+    width: 142px;
+}
+#trang-thai {
+    width: 110px;
+}
+.cot-data {
+   padding-top: 10px;
+
+   padding-bottom: 10px;
+
+}
+
+.cot1-data {
+    width: 38px;
+}
+.cot2-data {
+    width: 118px;
+}
+.cot3-data {
+    width: 310px;
+}
+.cot4-data {
+    width: 128px;
+}
+.cot5-data {
+    width: 128px;
+}
+.cot6-data {
+    width: 148px;
+}
+.cot7-data {
+    width: 178px;
+}
+.cot8-data {
+    width: 113px;
+}
+
+.ngoai-le-th{
+    padding: 0px;
+
+}
+#trang-dau {
+    background-position: -649px -124px;
+    margin-left: 15px;
+}
+.btl-trang {
+    background-image: url('/Contents/icon/common-icon.png');
+    background-color: white;
+    width: 25px;
+    height: 24px;
+    border: 1px solid #247ba0;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+#trang-truoc {
+    background-position: -699px -124px;
+    margin-left: 2px;
+}
+#trang-sau {
+    background-position: -748px -124px;
+    margin-left: 21px;
+}
+#trang-cuoi {
+    background-position: -798px -124px;
+    margin-left: 2px;
+}
+#refresh {
+    background-position: -848px -124px;
+    margin-left: 2px;
+}
+.cbb-trang {
+    width: 50px;
+    height: 25px;
+    margin-top: 14px;
+    margin-left: 2px;
+    border: 1px solid #c1c0c0;
+    border-radius: 3px;
+
+
+
+}
+#input-trang{
+    width: 45px;
+    border: 1px solid #c1c0c0;
+    border-radius: 3px;
+
+    height: 21px;
+    margin-top: 14px;
+    margin-left: 25px;
+    text-align: center;
+
+}
+.text-trang{
+    font-size: 13px;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+.main-table tr:hover {
+    background-color: #eaeff4;
+
+}
+
+
+
+
+
+
+
+
+
+

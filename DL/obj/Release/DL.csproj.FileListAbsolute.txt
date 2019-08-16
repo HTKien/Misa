@@ -1,0 +1,15 @@
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\DL\bin\Release\DL.dll.config
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\DL\bin\Release\DL.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\DL\bin\Release\DL.pdb
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\DL\bin\Release\Entities.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\DL\bin\Release\EntityFramework.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\DL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\DL\bin\Release\Entities.pdb
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\DL\bin\Release\Entities.dll.config
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\DL\bin\Release\EntityFramework.xml
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\DL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\DL\obj\Release\DL.csprojAssemblyReference.cache
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\DL\obj\Release\DL.csproj.CoreCompileInputs.cache
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\DL\obj\Release\DL.csproj.CopyComplete
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\DL\obj\Release\DL.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\DL\obj\Release\DL.pdb

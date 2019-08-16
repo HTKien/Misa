@@ -1,0 +1,308 @@
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\Ntier.dll.config
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\Ntier.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\Ntier.pdb
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\csc.exe
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\csc.exe.config
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\csc.rsp
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\csi.exe
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\csi.exe.config
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\csi.rsp
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.AppContext.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Collections.Immutable.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Console.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.IO.Compression.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.IO.FileSystem.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.IO.Pipes.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Reflection.Metadata.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Security.AccessControl.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Security.Claims.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.ValueTuple.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Xml.XPath.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\vbc.exe
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\vbc.exe.config
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\vbc.rsp
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\VBCSCompiler.exe
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\roslyn\VBCSCompiler.exe.config
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\BL.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\DL.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\Entities.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\EntityFramework.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\EntityFramework.SqlServer.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\Newtonsoft.Json.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\System.Net.Http.Formatting.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\System.Web.Http.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\System.Web.Http.WebHost.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\BL.pdb
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\BL.dll.config
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\DL.pdb
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\DL.dll.config
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\Entities.pdb
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\Entities.dll.config
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\EntityFramework.xml
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\EntityFramework.SqlServer.xml
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\Newtonsoft.Json.xml
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\System.Net.Http.Formatting.xml
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\System.Web.Http.xml
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\System.Web.Http.WebHost.xml
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\obj\Debug\Ntier.csprojAssemblyReference.cache
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\obj\Debug\Ntier.csproj.CoreCompileInputs.cache
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\obj\Debug\Ntier.csproj.CopyComplete
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\obj\Debug\Ntier.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Ntier\obj\Debug\Ntier.pdb
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\Ntier.dll.config
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\Ntier.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\Ntier.pdb
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\csc.exe
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\csc.exe.config
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\csc.rsp
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\csi.exe
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\csi.exe.config
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\csi.rsp
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.AppContext.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Console.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.IO.Compression.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Security.Claims.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.ValueTuple.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\vbc.exe
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\vbc.exe.config
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\vbc.rsp
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\VBCSCompiler.exe
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\BL.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\DL.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\Entities.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\EntityFramework.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\EntityFramework.SqlServer.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\Newtonsoft.Json.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\System.Net.Http.Formatting.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\System.Web.Http.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\System.Web.Http.WebHost.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\BL.pdb
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\BL.dll.config
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\DL.pdb
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\DL.dll.config
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\Entities.pdb
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\Entities.dll.config
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\EntityFramework.xml
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\EntityFramework.SqlServer.xml
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\Newtonsoft.Json.xml
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\System.Net.Http.Formatting.xml
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\System.Web.Http.xml
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\System.Web.Http.WebHost.xml
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\obj\Debug\Ntier.csprojAssemblyReference.cache
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\obj\Debug\Ntier.csproj.CoreCompileInputs.cache
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\obj\Debug\Ntier.csproj.CopyComplete
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\obj\Debug\Ntier.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Ntier\obj\Debug\Ntier.pdb
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\Ntier.dll.config
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\Ntier.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\Ntier.pdb
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\csc.exe
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\csc.exe.config
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\csc.rsp
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\csi.exe
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\csi.exe.config
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\csi.rsp
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.AppContext.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Collections.Immutable.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Console.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.IO.Compression.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.IO.FileSystem.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.IO.Pipes.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Reflection.Metadata.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Security.AccessControl.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Security.Claims.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.ValueTuple.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Xml.XPath.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\vbc.exe
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\vbc.exe.config
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\vbc.rsp
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\VBCSCompiler.exe
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\roslyn\VBCSCompiler.exe.config
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\BL.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\DL.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\Entities.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\EntityFramework.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\EntityFramework.SqlServer.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\Newtonsoft.Json.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\System.Net.Http.Formatting.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\System.Web.Http.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\System.Web.Http.WebHost.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\BL.pdb
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\BL.dll.config
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\DL.pdb
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\DL.dll.config
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\Entities.pdb
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\Entities.dll.config
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\EntityFramework.xml
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\EntityFramework.SqlServer.xml
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\Newtonsoft.Json.xml
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\System.Net.Http.Formatting.xml
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\System.Web.Http.xml
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\System.Web.Http.WebHost.xml
+F:\Misa\anh Kiên\KhachHang\Ntier\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Misa\anh Kiên\KhachHang\Ntier\obj\Debug\Ntier.csprojAssemblyReference.cache
+F:\Misa\anh Kiên\KhachHang\Ntier\obj\Debug\Ntier.csproj.CoreCompileInputs.cache
+F:\Misa\anh Kiên\KhachHang\Ntier\obj\Debug\Ntier.csproj.CopyComplete
+F:\Misa\anh Kiên\KhachHang\Ntier\obj\Debug\Ntier.dll
+F:\Misa\anh Kiên\KhachHang\Ntier\obj\Debug\Ntier.pdb
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\Ntier.dll.config
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\Ntier.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\Ntier.pdb
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\csc.exe
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\csc.exe.config
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\csc.rsp
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\csi.exe
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\csi.exe.config
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\csi.rsp
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.AppContext.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Collections.Immutable.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Console.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.IO.Compression.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.IO.FileSystem.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.IO.Pipes.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Reflection.Metadata.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Security.AccessControl.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Security.Claims.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.ValueTuple.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Xml.XPath.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\vbc.exe
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\vbc.exe.config
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\vbc.rsp
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\VBCSCompiler.exe
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\roslyn\VBCSCompiler.exe.config
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\BL.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\DL.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\Entities.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\EntityFramework.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\EntityFramework.SqlServer.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\Newtonsoft.Json.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\System.Net.Http.Formatting.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\System.Web.Http.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\System.Web.Http.WebHost.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\BL.pdb
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\BL.dll.config
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\DL.pdb
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\DL.dll.config
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\Entities.pdb
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\Entities.dll.config
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\EntityFramework.xml
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\EntityFramework.SqlServer.xml
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\Newtonsoft.Json.xml
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\System.Net.Http.Formatting.xml
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\System.Web.Http.xml
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\System.Web.Http.WebHost.xml
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\obj\Debug\Ntier.csprojAssemblyReference.cache
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\obj\Debug\Ntier.csproj.CoreCompileInputs.cache
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\obj\Debug\Ntier.csproj.CopyComplete
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\obj\Debug\Ntier.dll
+F:\Misa\anh Kiên\V1\KhachHang\Ntier\obj\Debug\Ntier.pdb

@@ -1,0 +1,59 @@
+﻿body {
+}
+.select {
+    background-color: #c3ecff !important;
+}
+
+.tick {
+    background-color: #00ff21;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+#dialog {
+    display: none;
+}
+
+
+.hide-button {
+    display: none;
+}
+.uncheck {
+    width: 38px;
+    background: url('/Contents/icon/uncheck.png') no-repeat center;
+}
+.check {
+    background: url('/Contents/icon/check.png') no-repeat center;
+}
+#con-quay {
+    width: 1185px;
+    height: 414px;
+    position: absolute;
+    top: 160px;
+    left: 152px;
+    background: url('../../Contents/icon/tenor.gif') no-repeat center;
+    background-size: 450px;
+    background-color: #fcfefc;
+}
+.dem-ban-ghi{
+    font-size: 13px;
+    margin-top: 18px;
+    margin-left: 530px;
+
+
+}
+.select-dam{
+
+    background-color: green;
+
+}
+
+
+
+

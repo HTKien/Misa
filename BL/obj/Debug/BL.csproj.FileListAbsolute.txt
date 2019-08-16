@@ -1,0 +1,72 @@
+F:\Kien_Bai_Tap_Misa\Ntier\BL\bin\Debug\BL.dll.config
+F:\Kien_Bai_Tap_Misa\Ntier\BL\bin\Debug\BL.dll
+F:\Kien_Bai_Tap_Misa\Ntier\BL\bin\Debug\BL.pdb
+F:\Kien_Bai_Tap_Misa\Ntier\BL\bin\Debug\DL.dll
+F:\Kien_Bai_Tap_Misa\Ntier\BL\bin\Debug\Entities.dll
+F:\Kien_Bai_Tap_Misa\Ntier\BL\bin\Debug\EntityFramework.dll
+F:\Kien_Bai_Tap_Misa\Ntier\BL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Kien_Bai_Tap_Misa\Ntier\BL\bin\Debug\DL.pdb
+F:\Kien_Bai_Tap_Misa\Ntier\BL\bin\Debug\DL.dll.config
+F:\Kien_Bai_Tap_Misa\Ntier\BL\bin\Debug\Entities.pdb
+F:\Kien_Bai_Tap_Misa\Ntier\BL\bin\Debug\Entities.dll.config
+F:\Kien_Bai_Tap_Misa\Ntier\BL\bin\Debug\EntityFramework.xml
+F:\Kien_Bai_Tap_Misa\Ntier\BL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Kien_Bai_Tap_Misa\Ntier\BL\obj\Debug\BL.csprojAssemblyReference.cache
+F:\Kien_Bai_Tap_Misa\Ntier\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\Kien_Bai_Tap_Misa\Ntier\BL\obj\Debug\BL.csproj.CopyComplete
+F:\Kien_Bai_Tap_Misa\Ntier\BL\obj\Debug\BL.dll
+F:\Kien_Bai_Tap_Misa\Ntier\BL\obj\Debug\BL.pdb
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\bin\Debug\BL.dll.config
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\bin\Debug\BL.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\bin\Debug\BL.pdb
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\bin\Debug\DL.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\bin\Debug\Entities.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\bin\Debug\EntityFramework.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\bin\Debug\DL.pdb
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\bin\Debug\DL.dll.config
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\bin\Debug\Entities.pdb
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\bin\Debug\Entities.dll.config
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\bin\Debug\EntityFramework.xml
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\obj\Debug\BL.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\BL\obj\Debug\BL.pdb
+F:\Misa\anh Kiên\KhachHang\BL\bin\Debug\BL.dll.config
+F:\Misa\anh Kiên\KhachHang\BL\bin\Debug\BL.dll
+F:\Misa\anh Kiên\KhachHang\BL\bin\Debug\BL.pdb
+F:\Misa\anh Kiên\KhachHang\BL\bin\Debug\DL.dll
+F:\Misa\anh Kiên\KhachHang\BL\bin\Debug\Entities.dll
+F:\Misa\anh Kiên\KhachHang\BL\bin\Debug\EntityFramework.dll
+F:\Misa\anh Kiên\KhachHang\BL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Misa\anh Kiên\KhachHang\BL\bin\Debug\DL.pdb
+F:\Misa\anh Kiên\KhachHang\BL\bin\Debug\DL.dll.config
+F:\Misa\anh Kiên\KhachHang\BL\bin\Debug\Entities.pdb
+F:\Misa\anh Kiên\KhachHang\BL\bin\Debug\Entities.dll.config
+F:\Misa\anh Kiên\KhachHang\BL\bin\Debug\EntityFramework.xml
+F:\Misa\anh Kiên\KhachHang\BL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Misa\anh Kiên\KhachHang\BL\obj\Debug\BL.csprojAssemblyReference.cache
+F:\Misa\anh Kiên\KhachHang\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\Misa\anh Kiên\KhachHang\BL\obj\Debug\BL.csproj.CopyComplete
+F:\Misa\anh Kiên\KhachHang\BL\obj\Debug\BL.dll
+F:\Misa\anh Kiên\KhachHang\BL\obj\Debug\BL.pdb
+F:\Misa\anh Kiên\V1\KhachHang\BL\bin\Debug\BL.dll.config
+F:\Misa\anh Kiên\V1\KhachHang\BL\bin\Debug\BL.dll
+F:\Misa\anh Kiên\V1\KhachHang\BL\bin\Debug\BL.pdb
+F:\Misa\anh Kiên\V1\KhachHang\BL\bin\Debug\DL.dll
+F:\Misa\anh Kiên\V1\KhachHang\BL\bin\Debug\Entities.dll
+F:\Misa\anh Kiên\V1\KhachHang\BL\bin\Debug\EntityFramework.dll
+F:\Misa\anh Kiên\V1\KhachHang\BL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Misa\anh Kiên\V1\KhachHang\BL\bin\Debug\DL.pdb
+F:\Misa\anh Kiên\V1\KhachHang\BL\bin\Debug\DL.dll.config
+F:\Misa\anh Kiên\V1\KhachHang\BL\bin\Debug\Entities.pdb
+F:\Misa\anh Kiên\V1\KhachHang\BL\bin\Debug\Entities.dll.config
+F:\Misa\anh Kiên\V1\KhachHang\BL\bin\Debug\EntityFramework.xml
+F:\Misa\anh Kiên\V1\KhachHang\BL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Misa\anh Kiên\V1\KhachHang\BL\obj\Debug\BL.csprojAssemblyReference.cache
+F:\Misa\anh Kiên\V1\KhachHang\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\Misa\anh Kiên\V1\KhachHang\BL\obj\Debug\BL.csproj.CopyComplete
+F:\Misa\anh Kiên\V1\KhachHang\BL\obj\Debug\BL.dll
+F:\Misa\anh Kiên\V1\KhachHang\BL\obj\Debug\BL.pdb

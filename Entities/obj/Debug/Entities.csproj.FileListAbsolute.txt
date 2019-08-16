@@ -1,0 +1,56 @@
+F:\Kien_Bai_Tap_Misa\Ntier\Entities\bin\Debug\Entities.dll.config
+F:\Kien_Bai_Tap_Misa\Ntier\Entities\bin\Debug\Entities.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Entities\bin\Debug\Entities.pdb
+F:\Kien_Bai_Tap_Misa\Ntier\Entities\bin\Debug\EntityFramework.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Entities\bin\Debug\EntityFramework.SqlServer.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Entities\bin\Debug\EntityFramework.xml
+F:\Kien_Bai_Tap_Misa\Ntier\Entities\bin\Debug\EntityFramework.SqlServer.xml
+F:\Kien_Bai_Tap_Misa\Ntier\Entities\obj\Debug\Entities.Migrations.Initial.resources
+F:\Kien_Bai_Tap_Misa\Ntier\Entities\obj\Debug\Entities.csproj.GenerateResource.cache
+F:\Kien_Bai_Tap_Misa\Ntier\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+F:\Kien_Bai_Tap_Misa\Ntier\Entities\obj\Debug\Entities.csproj.CopyComplete
+F:\Kien_Bai_Tap_Misa\Ntier\Entities\obj\Debug\Entities.dll
+F:\Kien_Bai_Tap_Misa\Ntier\Entities\obj\Debug\Entities.pdb
+F:\Kien_Bai_Tap_Misa\Ntier\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Entities\bin\Debug\Entities.dll.config
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Entities\bin\Debug\Entities.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Entities\bin\Debug\Entities.pdb
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Entities\bin\Debug\EntityFramework.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Entities\bin\Debug\EntityFramework.xml
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Entities\obj\Debug\Entities.Migrations.Initial.resources
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Entities\obj\Debug\Entities.csproj.GenerateResource.cache
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Entities\obj\Debug\Entities.dll
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Entities\obj\Debug\Entities.pdb
+C:\Users\hantr\OneDrive\Máy tính\KhachHang\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+F:\Misa\anh Kiên\KhachHang\Entities\bin\Debug\Entities.dll.config
+F:\Misa\anh Kiên\KhachHang\Entities\bin\Debug\Entities.dll
+F:\Misa\anh Kiên\KhachHang\Entities\bin\Debug\Entities.pdb
+F:\Misa\anh Kiên\KhachHang\Entities\bin\Debug\EntityFramework.dll
+F:\Misa\anh Kiên\KhachHang\Entities\bin\Debug\EntityFramework.SqlServer.dll
+F:\Misa\anh Kiên\KhachHang\Entities\bin\Debug\EntityFramework.xml
+F:\Misa\anh Kiên\KhachHang\Entities\bin\Debug\EntityFramework.SqlServer.xml
+F:\Misa\anh Kiên\KhachHang\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+F:\Misa\anh Kiên\KhachHang\Entities\obj\Debug\Entities.Migrations.Initial.resources
+F:\Misa\anh Kiên\KhachHang\Entities\obj\Debug\Entities.csproj.GenerateResource.cache
+F:\Misa\anh Kiên\KhachHang\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+F:\Misa\anh Kiên\KhachHang\Entities\obj\Debug\Entities.csproj.CopyComplete
+F:\Misa\anh Kiên\KhachHang\Entities\obj\Debug\Entities.dll
+F:\Misa\anh Kiên\KhachHang\Entities\obj\Debug\Entities.pdb
+F:\Misa\anh Kiên\V1\KhachHang\Entities\bin\Debug\Entities.dll.config
+F:\Misa\anh Kiên\V1\KhachHang\Entities\bin\Debug\Entities.dll
+F:\Misa\anh Kiên\V1\KhachHang\Entities\bin\Debug\Entities.pdb
+F:\Misa\anh Kiên\V1\KhachHang\Entities\bin\Debug\EntityFramework.dll
+F:\Misa\anh Kiên\V1\KhachHang\Entities\bin\Debug\EntityFramework.SqlServer.dll
+F:\Misa\anh Kiên\V1\KhachHang\Entities\bin\Debug\EntityFramework.xml
+F:\Misa\anh Kiên\V1\KhachHang\Entities\bin\Debug\EntityFramework.SqlServer.xml
+F:\Misa\anh Kiên\V1\KhachHang\Entities\obj\Debug\Entities.Migrations.Initial.resources
+F:\Misa\anh Kiên\V1\KhachHang\Entities\obj\Debug\Entities.csproj.GenerateResource.cache
+F:\Misa\anh Kiên\V1\KhachHang\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+F:\Misa\anh Kiên\V1\KhachHang\Entities\obj\Debug\Entities.csproj.CopyComplete
+F:\Misa\anh Kiên\V1\KhachHang\Entities\obj\Debug\Entities.dll
+F:\Misa\anh Kiên\V1\KhachHang\Entities\obj\Debug\Entities.pdb
+F:\Misa\anh Kiên\V1\KhachHang\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
